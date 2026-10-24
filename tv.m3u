@@ -765,9 +765,9 @@ http://tvmate.icu:8080/live/g5AB11/525447/159119.ts
 http://tvmate.icu:8080/live/g5AB11/525447/159120.ts
 #EXTINF:-1 group-title="NFL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65024_light_360w_270h.png" tvg-id="NFLNRZ.us (m3u4u)",NFL REDZONE 4
 http://tvmate.icu:8080/live/g5AB11/525447/208830.ts
-#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.e33c62ffc4a12d06e8cbbdea4b97053b484b47bb7cdc8ccc8dc4323a8d4d78ad (m3u4u)",NFL 00:
+#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.ca52bd3ee6cdbe86913cfcc3289315dbc46bec3b541f572363b44e12a4902f7c (m3u4u)",NFL 00: New England Patriots VS Chicago Bears
 http://tvmate.icu:8080/live/g5AB11/525447/208896.ts
-#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.15d58d7f54c461f8810ef9ede7f9766bb9e651f1bd0c2f25218ae61f2c986afb (m3u4u)",NFL 01:
+#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.690ad34e0d40fb419ea405b8f44610ae7ca9ffc6077520cc850a189033ed777b (m3u4u)",NFL 01: New England Patriots VS Chicago Bears
 http://tvmate.icu:8080/live/g5AB11/525447/252010.ts
 #EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.cd98e2335a5eb40866e3cc7122e59f4a8a4a64071730e98462a29dff9261a7ad (m3u4u)",NFL 02:
 http://tvmate.icu:8080/live/g5AB11/525447/252011.ts
@@ -797,112 +797,6 @@ http://tvmate.icu:8080/live/g5AB11/525447/252022.ts
 http://tvmate.icu:8080/live/g5AB11/525447/253677.ts
 #EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.2fc57c7e43f135840411c0375dbd13fa5a4fe4cf6b898ac6ebe05ec1f6c5e219 (m3u4u)",NFL 15:
 http://tvmate.icu:8080/live/g5AB11/525447/253678.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" tvg-id="KABC.us (m3u4u)",ABC LA (KABC)
-http://tvmate.icu:8080/live/g5AB11/525447/324431.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" tvg-id="WABC.us (m3u4u)",ABC NY (WABC)
-http://tvmate.icu:8080/live/g5AB11/525447/22990.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="http://dtil.tmsimg.com/assets/s111871_ll_h15_ac.png?w=360&h=270" tvg-id="ACC.Network.us2.us (src05)",ACC NETWORK
-http://tvmate.icu:8080/live/g5AB11/525447/9273.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58321_dark_360w_270h.png" tvg-id="BIG10HD.us (m3u4u)",BIG TEN NETWORK
-http://tvmate.icu:8080/live/g5AB11/525447/9828.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" tvg-id="KCBSDT.us (m3u4u)",CBS LA (KCBS)
-http://tvmate.icu:8080/live/g5AB11/525447/324432.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" tvg-id="WCBSDT.us (m3u4u)",CBS NY (WCBS)
-http://tvmate.icu:8080/live/g5AB11/525447/46754.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-id="CBSSN.us (m3u4u)",CBS SPORTS NETWORK
-http://tvmate.icu:8080/live/g5AB11/525447/10454.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPN.us (m3u4u)",ESPN
-http://tvmate.icu:8080/live/g5AB11/525447/14197.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPN.us (m3u4u)",ESPN ALTERNATE
-http://tvmate.icu:8080/live/g5AB11/525447/9802.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" tvg-id="ESPN2.us (m3u4u)",ESPN 2
-http://tvmate.icu:8080/live/g5AB11/525447/2210.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s89714_h15_aa.png" tvg-id="SEC.Network.HD.us2.us (src05)",ESPN SEC NETWORK
-http://tvmate.icu:8080/live/g5AB11/525447/17608.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_light_360w_270h.png" tvg-id="ESPNU.us (m3u4u)",ESPNU
-http://tvmate.icu:8080/live/g5AB11/525447/10255.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_white_360w_270h.png" tvg-id="ESPNEWS.us (m3u4u)",ESPNEWS
-http://tvmate.icu:8080/live/g5AB11/525447/17707.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_white_360w_270h.png" tvg-id="KTTVDT.us (m3u4u)",FOX LA (KTTV)
-http://tvmate.icu:8080/live/g5AB11/525447/324433.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_white_360w_270h.png" tvg-id="WNYWDT.us (m3u4u)",FOX NY (WNYW)
-http://tvmate.icu:8080/live/g5AB11/525447/120750.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-id="FS1.Fox.Sports.1.HD.us2.us (src05)",FOX SPORTS 1
-http://tvmate.icu:8080/live/g5AB11/525447/1846.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&h=270" tvg-id="FS2.Fox.Sports.2.HD.us2.us (src05)",FOX SPORTS 2
-http://tvmate.icu:8080/live/g5AB11/525447/1847.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" tvg-id="KNBCDT.us (m3u4u)",NBC LA (KNBC)
-http://tvmate.icu:8080/live/g5AB11/525447/324434.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" tvg-id="WNBCDT.us (m3u4u)",NBC NY (WNBC)
-http://tvmate.icu:8080/live/g5AB11/525447/46687.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 01 East Carolina @ UAB 730pm
-http://tvmate.icu:8080/live/g5AB11/525447/333048.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 02 Georgia Southern @ Old Dominion 730pm
-http://tvmate.icu:8080/live/g5AB11/525447/333049.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 03 Colorado State @ Texas State 8PM
-http://tvmate.icu:8080/live/g5AB11/525447/333050.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 04 UCF @ Oklahoma State 12PM
-http://tvmate.icu:8080/live/g5AB11/525447/333051.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 05 Wake Forest @ NC State 12PM
-http://tvmate.icu:8080/live/g5AB11/525447/333052.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 06 Arizona @ West Virginia 12PM
-http://tvmate.icu:8080/live/g5AB11/525447/333053.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 07 Tulane @ Army 12PM
-http://tvmate.icu:8080/live/g5AB11/525447/333054.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 08 Dartmouth @ Yale 12PM
-http://tvmate.icu:8080/live/g5AB11/525447/333055.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 09 Ball State @ Northwestern 1230PM
-http://tvmate.icu:8080/live/g5AB11/525447/333056.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 10 South Carolina @ Florida 1245PM
-http://tvmate.icu:8080/live/g5AB11/525447/333057.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 11 Texas vs Oklahoma 330PM
-http://tvmate.icu:8080/live/g5AB11/525447/333058.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 12 Stanford @ Notre Dame 330PM
-http://tvmate.icu:8080/live/g5AB11/525447/333059.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 13 UCLA @ Oregon 330PM
-http://tvmate.icu:8080/live/g5AB11/525447/333060.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 14 Houston @ Kansas State 330PM
-http://tvmate.icu:8080/live/g5AB11/525447/333061.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 15 Ole Miss @ Vanderbilt 330PM
-http://tvmate.icu:8080/live/g5AB11/525447/333062.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 16 Duke @ Georgia Tech 330PM
-http://tvmate.icu:8080/live/g5AB11/525447/333063.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 17 Illinois @ Michigan State 330PM
-http://tvmate.icu:8080/live/g5AB11/525447/333064.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 18 Virginia Tech @ California 330PM
-http://tvmate.icu:8080/live/g5AB11/525447/333065.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 19 Tulsa @ Navy 330PM
-http://tvmate.icu:8080/live/g5AB11/525447/333066.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 20 Connecticut @ Temple 345PM
-http://tvmate.icu:8080/live/g5AB11/525447/333067.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 21  Tennessee @ Arkansas 415PM
-http://tvmate.icu:8080/live/g5AB11/525447/333068.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 22 Maryland @ Ohio State 415PM
-http://tvmate.icu:8080/live/g5AB11/525447/333069.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 23 San Diego State @ Oregon State 6PM
-http://tvmate.icu:8080/live/g5AB11/525447/333070.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 24 LSU @ Kentucky 7PM
-http://tvmate.icu:8080/live/g5AB11/525447/333071.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 25 UAB @ Memphis 7PM
-http://tvmate.icu:8080/live/g5AB11/525447/333072.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 26 North Dakota State @ UNLV 7PM
-http://tvmate.icu:8080/live/g5AB11/525447/333073.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 27 Nevada @ UTEP 7PM
-http://tvmate.icu:8080/live/g5AB11/525447/333074.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 28 Georgia @ Alabama 730PM
-http://tvmate.icu:8080/live/g5AB11/525447/333075.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 29 USC @ Penn State 730PM
-http://tvmate.icu:8080/live/g5AB11/525447/333076.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 30 Syracuse @ Virginia 730PM
-http://tvmate.icu:8080/live/g5AB11/525447/333077.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 31 James Madison @ Georgia Southern 730PM
-http://tvmate.icu:8080/live/g5AB11/525447/333078.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 32 Air Force @ Northern Illinois 730PM
-http://tvmate.icu:8080/live/g5AB11/525447/333079.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 33 Minnesota @ Purdue 8PM
-http://tvmate.icu:8080/live/g5AB11/525447/333080.ts
-#EXTINF:-1 group-title="NCAAF" tvg-logo="" tvg-id="",NCAAF 35 Boise State @ Fresno State 1030PM
-http://tvmate.icu:8080/live/g5AB11/525447/333081.ts
 #EXTINF:-1 group-title="LOCALS" tvg-logo="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&h=270" tvg-id="WBAY-DT.us_locals1.us (src05)",ABC (WBAY)
 http://tvmate.icu:8080/live/g5AB11/525447/135811.ts
 #EXTINF:-1 group-title="LOCALS" tvg-logo="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&h=270" tvg-id="WEWS-DT.us_locals1.us (src05)",ABC (WEWS)
@@ -1255,11 +1149,7 @@ http://tvmate.icu:8080/live/g5AB11/525447/324458.ts
 http://tvmate.icu:8080/live/g5AB11/525447/324459.ts
 #EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="FOX (WSVN) Miami, FL HD.us (src09)",FL | MIAMI | FOX (WSVN)
 http://tvmate.icu:8080/live/g5AB11/525447/324460.ts
-#EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="FOX (WSVN) Miami, FL HD.us (src09)",FL | MIAMI | FOX (WSVN) (2)
-http://tvmate.icu:8080/live/g5AB11/525447/324461.ts
 #EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="",FL | MIAMI | MY TV (WBFS)
-http://tvmate.icu:8080/live/g5AB11/525447/324462.ts
-#EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="",FL | MIAMI | MY TV (WBFS) (2)
 http://tvmate.icu:8080/live/g5AB11/525447/324463.ts
 #EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="NBC (WTVJ) Miami, FL HD.us (src09)",FL | MIAMI | NBC (WTVJ)
 http://tvmate.icu:8080/live/g5AB11/525447/324464.ts
@@ -1483,14 +1373,12 @@ http://tvmate.icu:8080/live/g5AB11/525447/324531.ts
 http://tvmate.icu:8080/live/g5AB11/525447/324532.ts
 #EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="FOX (WVUE) New Orleans, LA HD.us (src09)",LA | NEW ORLEANS | FOX (WVUE)
 http://tvmate.icu:8080/live/g5AB11/525447/324533.ts
-#EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="FOX (WVUE) New Orleans, LA HD.us (src09)",LA | NEW ORLEANS | FOX (WVUE) (2)
-http://tvmate.icu:8080/live/g5AB11/525447/324534.ts
 #EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="NBC (WDSU) New Orleans, LA HD.us (src09)",LA | NEW ORLEANS | NBC (WDSU)
 http://tvmate.icu:8080/live/g5AB11/525447/324535.ts
-#EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="NBC (WDSU) New Orleans, LA HD.us (src09)",LA | NEW ORLEANS | NBC (WDSU) (2)
-http://tvmate.icu:8080/live/g5AB11/525447/324536.ts
 #EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="CBS (KSLA) Shreveport, LA HD.us (src09)",LA | SHREVEPORT | CBS (KSLA)
 http://tvmate.icu:8080/live/g5AB11/525447/324537.ts
+#EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="",US CW 33 (WBFS) Miami (A)
+http://tvmate.icu:8080/live/g5AB11/525447/324462.ts
 #EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="CBS (KSLA) Shreveport, LA HD.us (src09)",LA | SHREVEPORT | CBS (KSLA) (2)
 http://tvmate.icu:8080/live/g5AB11/525447/324538.ts
 #EXTINF:-1 group-title="LOCALS" tvg-logo="" tvg-id="FOX (KMSS) Shreveport, LA HD.us (src09)",LA | SHREVEPORT | FOX (KMSS)
@@ -2441,3 +2329,41 @@ http://tvmate.icu:8080/live/g5AB11/525447/100456.ts
 http://tvmate.icu:8080/live/g5AB11/525447/57471.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="https://images.open-epg.com/17417013.png" tvg-id="yestv.ca",YES TV (CA)
 http://tvmate.icu:8080/live/g5AB11/525447/57472.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" tvg-id="KABC.us (m3u4u)",ABC LA (KABC)
+http://tvmate.icu:8080/live/g5AB11/525447/324431.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" tvg-id="WABC.us (m3u4u)",ABC NY (WABC)
+http://tvmate.icu:8080/live/g5AB11/525447/22990.ts
+#EXTINF:-1 group-title="" tvg-logo="http://dtil.tmsimg.com/assets/s111871_ll_h15_ac.png?w=360&h=270" tvg-id="ACC.Network.us2.us (src05)",ACC NETWORK
+http://tvmate.icu:8080/live/g5AB11/525447/9273.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58321_dark_360w_270h.png" tvg-id="BIG10HD.us (m3u4u)",BIG TEN NETWORK
+http://tvmate.icu:8080/live/g5AB11/525447/9828.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" tvg-id="KCBSDT.us (m3u4u)",CBS LA (KCBS)
+http://tvmate.icu:8080/live/g5AB11/525447/324432.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" tvg-id="WCBSDT.us (m3u4u)",CBS NY (WCBS)
+http://tvmate.icu:8080/live/g5AB11/525447/46754.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-id="CBSSN.us (m3u4u)",CBS SPORTS NETWORK
+http://tvmate.icu:8080/live/g5AB11/525447/10454.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPN.us (m3u4u)",ESPN
+http://tvmate.icu:8080/live/g5AB11/525447/14197.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPN.us (m3u4u)",ESPN ALTERNATE
+http://tvmate.icu:8080/live/g5AB11/525447/9802.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" tvg-id="ESPN2.us (m3u4u)",ESPN 2
+http://tvmate.icu:8080/live/g5AB11/525447/2210.ts
+#EXTINF:-1 group-title="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s89714_h15_aa.png" tvg-id="SEC.Network.HD.us2.us (src05)",ESPN SEC NETWORK
+http://tvmate.icu:8080/live/g5AB11/525447/17608.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_light_360w_270h.png" tvg-id="ESPNU.us (m3u4u)",ESPNU
+http://tvmate.icu:8080/live/g5AB11/525447/10255.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_white_360w_270h.png" tvg-id="ESPNEWS.us (m3u4u)",ESPNEWS
+http://tvmate.icu:8080/live/g5AB11/525447/17707.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_white_360w_270h.png" tvg-id="KTTVDT.us (m3u4u)",FOX LA (KTTV)
+http://tvmate.icu:8080/live/g5AB11/525447/324433.ts
+#EXTINF:-1 group-title="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_white_360w_270h.png" tvg-id="WNYWDT.us (m3u4u)",FOX NY (WNYW)
+http://tvmate.icu:8080/live/g5AB11/525447/120750.ts
+#EXTINF:-1 group-title="" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-id="FS1.Fox.Sports.1.HD.us2.us (src05)",FOX SPORTS 1
+http://tvmate.icu:8080/live/g5AB11/525447/1846.ts
+#EXTINF:-1 group-title="" tvg-logo="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&h=270" tvg-id="FS2.Fox.Sports.2.HD.us2.us (src05)",FOX SPORTS 2
+http://tvmate.icu:8080/live/g5AB11/525447/1847.ts
+#EXTINF:-1 group-title="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" tvg-id="KNBCDT.us (m3u4u)",NBC LA (KNBC)
+http://tvmate.icu:8080/live/g5AB11/525447/324434.ts
+#EXTINF:-1 group-title="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" tvg-id="WNBCDT.us (m3u4u)",NBC NY (WNBC)
+http://tvmate.icu:8080/live/g5AB11/525447/46687.ts
