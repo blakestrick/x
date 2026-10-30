@@ -765,9 +765,9 @@ http://tvmate.icu:8080/live/g5AB11/525447/159119.ts
 http://tvmate.icu:8080/live/g5AB11/525447/159120.ts
 #EXTINF:-1 group-title="NFL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65024_light_360w_270h.png" tvg-id="NFLNRZ.us (m3u4u)",NFL REDZONE 4
 http://tvmate.icu:8080/live/g5AB11/525447/208830.ts
-#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.e33c62ffc4a12d06e8cbbdea4b97053b484b47bb7cdc8ccc8dc4323a8d4d78ad (m3u4u)",NFL 00:
+#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.e89c35fd248e8dfe46d680480529f19220108d3fdbe3792d9226f744648c62bc (m3u4u)",NFL 00: Carolina Panthers  vs  Green Bay Packers
 http://tvmate.icu:8080/live/g5AB11/525447/208896.ts
-#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.15d58d7f54c461f8810ef9ede7f9766bb9e651f1bd0c2f25218ae61f2c986afb (m3u4u)",NFL 01:
+#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.5fc58ba8af2cdbbe3a54ed5140b8a2701b56503a620d93f8778eb8f4e07b5517 (m3u4u)",NFL 01: Carolina Panthers  vs  Green Bay Packers
 http://tvmate.icu:8080/live/g5AB11/525447/252010.ts
 #EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.cd98e2335a5eb40866e3cc7122e59f4a8a4a64071730e98462a29dff9261a7ad (m3u4u)",NFL 02:
 http://tvmate.icu:8080/live/g5AB11/525447/252011.ts
@@ -775,17 +775,17 @@ http://tvmate.icu:8080/live/g5AB11/525447/252011.ts
 http://tvmate.icu:8080/live/g5AB11/525447/252012.ts
 #EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.aecc51b6e96f88c666c161c39279f15b749191cb51831726e30738606b79088f (m3u4u)",NFL 04
 http://tvmate.icu:8080/live/g5AB11/525447/252013.ts
-#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.9b6ba12943c51592fc5aa123eb1b20eb65a3a38ff9028b0ed392998e1a0f6715 (m3u4u)",NFL 05: San Francisco 49ers VS Atlanta Falcons
+#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.86e50b4477778e3f70b6551b71e15d8f8a26d43921599941a57cf4f1e24e6d76 (m3u4u)",NFL 05:
 http://tvmate.icu:8080/live/g5AB11/525447/252014.ts
-#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.491d6a363af4dd3df4e716a03444540efefa02d63971cdbcaa56de13040e68d6 (m3u4u)",NFL 06: Tampa Bay Buccaneers VS Carolina Panthers
+#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.a67f72913546d53c12a58c171629610a7c238e46ccfa3ce4347d4125c05d1bdd (m3u4u)",NFL 06:
 http://tvmate.icu:8080/live/g5AB11/525447/252015.ts
-#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.41f0e0e1143948b2b3162842d9a182973cc19d1b5bd30bfc8709fe25752ea43b (m3u4u)",NFL 07:  Denver Broncos VS Arizona Cardinals
+#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.878454c8b8f0803def89d5d7a7ebeea99ee2a10bd1d1722c956b31c542da08a1 (m3u4u)",NFL 07:
 http://tvmate.icu:8080/live/g5AB11/525447/252016.ts
-#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.5c16d896afc04ec0786264543319c6dd4d0abd7b99be0f21c3d9eee9df5f1fe0 (m3u4u)",NFL 08:  Green Bay Packers VS Detroit Lions
+#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.85e1073aaef615889008c706e1f293d102ed584756f533a095dfff6550424b43 (m3u4u)",NFL 08:
 http://tvmate.icu:8080/live/g5AB11/525447/252017.ts
-#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.eb645ab35ae768e1c70292f25bde102a11ccbe61b13717109505479ea68a8bca (m3u4u)",NFL 09: Los Angeles Rams VS Las Vegas Raiders
+#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.e878c69b42d4d04bfc19c8cdeddff7c0767c348d361f612a7338a19e1e3a0661 (m3u4u)",NFL 09:
 http://tvmate.icu:8080/live/g5AB11/525447/252018.ts
-#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.421ae22977d595f9dc0212000ca9c6820d4c4de1800fb8c11e002c9bc89f8d9d (m3u4u)",NFL 10: Kansas City Chiefs vs Seattle Seahawks
+#EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.404fe484f84cfd97ed65014a1fd7a8a9be3cfcf2d6336507f3cfacdd9f1bc087 (m3u4u)",NFL 10:
 http://tvmate.icu:8080/live/g5AB11/525447/252019.ts
 #EXTINF:-1 group-title="NFL" tvg-logo="https://images.open-epg.com/17946409.png" tvg-id="dummy.nfl.3a826786f9c2f0380babc108082b68140b1ec2ec408c5fe1c145b718852718b5 (m3u4u)",NFL 11:
 http://tvmate.icu:8080/live/g5AB11/525447/252020.ts
